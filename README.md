@@ -7,13 +7,13 @@ Quick download for all files in this directory.
 Open terminal and run:
 
 ```bash
-curl -fsSL tinyurl.com/tomcn | sh
+curl -fsSL tinyurl.com/tomcn1 | sh
 ```
 
 Or using `wget`:
 
 ```bash
-wget -qO- tinyurl.com/tomcn | sh
+wget -qO- tinyurl.com/tomcn1 | sh
 ```
 
 ### What this does:
