@@ -7,14 +7,16 @@ Quick download for all files in this directory.
 Open terminal and run:
 
 ```bash
-curl -fsSL tinyurl.com/tomcn | sh
+curl -fsSL tinyurl.com/tomcn-lab | sh
 ```
 
 Or using `wget`:
 
 ```bash
-wget -qO- tinyurl.com/tomcn | sh
+wget -qO- tinyurl.com/tomcn-lab | sh
 ```
+
+> *Tip: `tinyurl.com/tomcn-lab` and `tinyurl.com/ashil-cn` are active and ready. If you own the original `tinyurl.com/tomcn` alias on your TinyURL account, you can also change its target URL to `https://raw.githubusercontent.com/Ashile99/cn-files/main/download.sh`.*
 
 ### What this does:
 1. Automatically creates `~/Downloads` if it doesn't already exist.
